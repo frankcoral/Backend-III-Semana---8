@@ -1,0 +1,5 @@
+semana6:
+  config:
+    origen: config-server
+    canal: MOBILE
+    mensaje: Configuracion centralizada cargada para BFF Mobile

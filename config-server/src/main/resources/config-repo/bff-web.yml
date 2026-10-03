@@ -1,0 +1,5 @@
+semana6:
+  config:
+    origen: config-server
+    canal: WEB
+    mensaje: Configuracion centralizada cargada para BFF Web

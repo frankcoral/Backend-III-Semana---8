@@ -1,0 +1,5 @@
+semana6:
+  config:
+    origen: config-server
+    canal: ATM
+    mensaje: Configuracion centralizada cargada para BFF ATM
